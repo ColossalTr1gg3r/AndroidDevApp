@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lordtr1gg3r/Todo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/lordtr1gg3r/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f5d2ce04db03bb7475e8c65bccb27709/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

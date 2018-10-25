@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lordtr1gg3r/Todo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/home/lordtr1gg3r/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f5d2ce04db03bb7475e8c65bccb27709/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

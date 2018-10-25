@@ -1,0 +1,4 @@
+#Thu Oct 25 11:47:52 BST 2018
+base.0=/home/lordtr1gg3r/Todo(New)/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
