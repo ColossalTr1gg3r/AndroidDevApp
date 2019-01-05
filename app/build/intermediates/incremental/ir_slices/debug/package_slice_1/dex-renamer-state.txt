@@ -1,4 +1,4 @@
-#Thu Oct 25 11:47:53 BST 2018
-base.0=/home/lordtr1gg3r/Todo(New)/app/build/intermediates/transforms/dexMerger/debug/1
+#Fri Jan 04 16:38:44 GMT 2019
+base.0=C\:\\Users\\simon\\Documents\\Todo\\Todo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 path.0=classes.dex
 renamed.0=classes.dex

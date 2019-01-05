@@ -151,9 +151,9 @@ public final class R {
         public static final int TextAppearance_Compat_Notification_Line2 = 0x7f0d00ed;
         public static final int TextAppearance_Compat_Notification_Time = 0x7f0d00ee;
         public static final int TextAppearance_Compat_Notification_Title = 0x7f0d00ef;
-        public static final int Widget_Compat_NotificationActionContainer = 0x7f0d0158;
-        public static final int Widget_Compat_NotificationActionText = 0x7f0d0159;
-        public static final int Widget_Support_CoordinatorLayout = 0x7f0d015a;
+        public static final int Widget_Compat_NotificationActionContainer = 0x7f0d0159;
+        public static final int Widget_Compat_NotificationActionText = 0x7f0d015a;
+        public static final int Widget_Support_CoordinatorLayout = 0x7f0d015b;
     }
     public static final class styleable {
         private styleable() {}

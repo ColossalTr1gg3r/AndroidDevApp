@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lordtr1gg3r/Todo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "C:\\Users\\simon\\Documents\\Todo\\Todo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/lordtr1gg3r/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f5d2ce04db03bb7475e8c65bccb27709/res/values-night-v8/values-night-v8.xml",
+                    "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3cb18ee70682b4c12a381b371cb25c82\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

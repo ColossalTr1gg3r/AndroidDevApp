@@ -51,9 +51,7 @@ public class Todo extends AppCompatActivity {
 
         setTextViewComplete("");
 
-        /*
-        TODO: Refactor to data layer
-         */
+
         Resources res = getResources();
         mTodos = res.getStringArray(R.array.todo);
         // display the first task from mTodo array in the textViewTodo
@@ -67,6 +65,16 @@ public class Todo extends AppCompatActivity {
                 textViewTodo.setText(mTodos[mTodoIndex]);
                 setTextViewComplete("");
             }
+        });
+        Button buttonPrev = findViewById(R.id.buttonPrev);
+        buttonPrev.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                mTodoIndex = (mTodoIndex == 0) ? mTodos.length-1 : mTodoIndex -1; //Tenary Operator which counts from 0 to 4 in the Array
+                textViewTodo.setText(mTodos[mTodoIndex]);
+                setTextViewComplete("");
+            }
+
         });
 
         Button buttonTodoDetail = findViewById(R.id.buttonTodoDetail);
